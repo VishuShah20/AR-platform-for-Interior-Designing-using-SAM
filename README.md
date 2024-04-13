@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is home to the Visionary AR platform, an innovative tool that revolutionizes interior design through augmented reality and deep learning. The platform allows users to upload images of their spaces and dynamically alter textures and furnishings using advanced semantic segmentation and texture overlay technologies. Developed with a CNN model trained on proprietary and ADE20K datasets, this tool is designed to significantly enhance realism and user engagement in interior design.
+This repository is home to the Visionary AR platform, an innovative tool that revolutionizes interior design through augmented reality, deep learnming and SAM (Segment Anything by Meta). The platform allows users to upload images of their spaces and dynamically alter textures and furnishings using advanced semantic segmentation and texture overlay technologies. Developed with a CNN model trained on proprietary and ADE20K datasets, this tool is designed to significantly enhance realism and user engagement in interior design.
 
 ## Use Case
 
